@@ -1,8 +1,6 @@
 # Hi, I’m Osman Anıl YALÇIN!<!-- -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OsmanYLCN&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+
 
 <br/>
 
