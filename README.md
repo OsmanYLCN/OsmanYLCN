@@ -1,4 +1,4 @@
-# Hi, I’m Osman Anıl YALÇIN![cite: 1]
+# Hi, I’m osuruk osman Anıl YALÇIN!<!-- -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OsmanYLCN&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -8,7 +8,7 @@
 
 ## About Me
 
-A disciplined software engineering student with interest in game development, AI, web & mobile applications, and embedded systems.[cite: 1] Currently in my 3rd year, I actively design and build full-stack web platforms, mobile apps, and video games. I am also continuously expanding my horizons with AI training programs and home server hardware projects (Raspberry Pi/Linux).
+A disciplined software engineering student with interest in game development, AI, web & mobile applications, and embedded systems.<!-- --> Currently in my 3rd year, I actively design and build full-stack web platforms, mobile apps, and video games. I am also continuously expanding my horizons with AI training programs and home server hardware projects (Raspberry Pi/Linux).
 
 ---
 
@@ -37,9 +37,9 @@ A disciplined software engineering student with interest in game development, AI
 
 <br/>
 
-- **Languages:** C#, Python, C++, C, JavaScript, TypeScript, SQL (PostgreSQL, SQLite, MySQL)[cite: 1]
-- **Frameworks/Engines:** Next.js, React Native (Expo), Django (REST), Unity, Unreal Engine, raylib[cite: 1]
-- **Other:** Web Design, Supabase, REST APIs, Arduino, Embedded Systems, Linux (Ubuntu/Arch)[cite: 1]
+- **Languages:** C#, Python, C++, C, JavaScript, TypeScript, SQL (PostgreSQL, SQLite, MySQL)<!-- -->
+- **Frameworks/Engines:** Next.js, React Native (Expo), Django (REST), Unity, Unreal Engine, raylib<!-- -->
+- **Other:** Web Design, Supabase, REST APIs, Arduino, Embedded Systems, Linux (Ubuntu/Arch)<!-- -->
 
 ---
 
@@ -54,11 +54,11 @@ A disciplined software engineering student with interest in game development, AI
 - **Exhibition Stand System**  
   Real-time digital customer attendance tracking system designed for mobile platforms.
 - **Spacewar Game**  
-  Space shooter developed with C# & raylib.[cite: 1]
+  Space shooter developed with C# & raylib.<!-- -->
 - **Freelancer Contract Bot**  
-  AI-powered contract assistant for freelancers.[cite: 1]
+  AI-powered contract assistant for freelancers.<!-- -->
 - **Brake Mechanism Software**  
-  C-based brake mechanism software for the KOURACING team.[cite: 1]
+  C-based brake mechanism software for the KOURACING team.<!-- -->
 
 ---
 
@@ -67,14 +67,14 @@ A disciplined software engineering student with interest in game development, AI
 <p align="center">
   <a href="https://www.linkedin.com/in/osmanilylc18/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/> 
-  </a>[cite: 1]
+  </a><!-- -->
   <a href="https://www.instagram.com/ylcosm4n/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="32"/> 
-  </a>[cite: 1]
+  </a><!-- -->
 </p>
 
 ---
 
-> “Kimse harakiri yapacak kadar Japon değil.”[cite: 1]
+> “Kimse harakiri yapacak kadar Japon değil.”<!-- -->
 >
-> <div align="right"><sub><b>Mr. Terim</b></sub></div>[cite: 1]
+> <div align="right"><sub><b>Mr. Terim</b></sub></div><!-- -->
